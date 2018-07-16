@@ -7,4 +7,5 @@ Edition: 1, 2016
 Last 2 chapters of online available only chapters are uploaded here.
 
 Chapter 14 - Atomic Variables and Nonblocking Synchronization
+
 Chapter 15 - The Java Memory Model
