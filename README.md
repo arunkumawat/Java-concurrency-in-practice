@@ -1,10 +1,17 @@
 # Java-concurrency-in-practice
-Java Concurrency in Practice (English, Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea) Last 2 Online chapters PDF
+Java Concurrency in Practice (English, Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea) 
+
+Last 2 Online chapters PDF
+
 Publisher: PEARSON
+
 ISBN: 9789332576520, 9332576521
+
 Edition: 1, 2016
 
+
 Last 2 chapters of online available only chapters are uploaded here.
+
 
 Chapter 14 - Atomic Variables and Nonblocking Synchronization
 
