@@ -10,7 +10,7 @@ ISBN: 9789332576520, 9332576521
 Edition: 1, 2016
 
 
-Last 2 chapters of online available only chapters are uploaded here.
+Last 2 chapters of "online available chapters" are here.
 
 
 Chapter 14 - Atomic Variables and Nonblocking Synchronization
