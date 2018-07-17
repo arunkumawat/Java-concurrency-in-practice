@@ -18,4 +18,4 @@ Chapter 14 - Atomic Variables and Nonblocking Synchronization
 Chapter 15 - The Java Memory Model
 
 
-email- i.arunkk@gmail.com
+email- login.arun86@gmail.com
